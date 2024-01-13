@@ -8,4 +8,4 @@ WEBSITE OSIS SMK PANCASILA 8 SLOGOHIMO Preode 2024
 - SMK HEBAT
 
 ### SPANDELA JAYA!
-### OPEN LIVE DEMO: https://osis-spendela.netlify.app/
+### OPEN LIVE DEMO: https://osisndoning2024.netlify.app/
